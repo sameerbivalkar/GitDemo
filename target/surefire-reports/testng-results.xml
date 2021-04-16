@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="77" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="77" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+      <class name="Qaclickacademy.AppiamTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:Qaclickacademy.AppiamTest@4909b8da]" name="IOSApps" duration-ms="17" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeappandroid()[pri:0, instance:Qaclickacademy.AppiamTest@4909b8da]" name="nativeappandroid" duration-ms="1" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- Qaclickacademy.AppiamTest -->
+      <class name="Qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:Qaclickacademy.SeleniumTest@2d3fcdbd]" name="browserautomation" duration-ms="1" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:Qaclickacademy.SeleniumTest@2d3fcdbd]" name="elementsUI" duration-ms="1" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- Qaclickacademy.SeleniumTest -->
+      <class name="Qaclickacademy.JiraTest">
+        <test-method status="PASS" signature="PostJiraDefectpost()[pri:0, instance:Qaclickacademy.JiraTest@3a03464]" name="PostJiraDefectpost" duration-ms="0" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJiraDefectpost -->
+        <test-method status="PASS" signature="deleteTwitterdelete()[pri:0, instance:Qaclickacademy.JiraTest@3a03464]" name="deleteTwitterdelete" duration-ms="0" started-at="2021-04-06T17:12:16Z" finished-at="2021-04-06T17:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitterdelete -->
+      </class> <!-- Qaclickacademy.JiraTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
